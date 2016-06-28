@@ -77,3 +77,5 @@ exports.pi = Math.PI;
 exports.sqrt1_2 = Math.SQRT1_2;
 
 exports.sqrt2 = Math.SQRT2;
+
+exports.sign = Math.sign;

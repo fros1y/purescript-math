@@ -92,3 +92,5 @@ foreign import sqrt1_2 :: Number
 
 -- | The square root of two, around 1.41421.
 foreign import sqrt2 :: Number
+
+foreign import sign :: Number -> Number
